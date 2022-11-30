@@ -1,0 +1,145 @@
+.nav-bar {
+  justify-content: space-between;
+  display: flex;
+  padding-left: 20px;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: blue;
+}
+a:active {
+  text-decoration: none;
+  color: black;
+}
+
+.list {
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+
+.login {
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 50;
+  cursor: pointer;
+  border-radius: 70px;
+  background-color: white;
+}
+.introbar {
+  text-align: center;
+}
+
+.introbar2 {
+  display: flex;
+  text-align: left;
+  margin-left: 20px;
+  padding-bottom: 50px;
+}
+.introbar2-img {
+  padding-left: 30px;
+  margin-left: 40px;
+  padding-right: 30px;
+  padding-top: 5px;
+}
+
+.introbar2-txt {
+  padding-top: 40px;
+}
+
+.introbartiny {
+  display: flex;
+}
+
+.topic {
+  margin: 30px;
+  padding-top: 40px;
+}
+
+.main-firstlayer {
+  display: flex;
+  justify-content: center;
+}
+.firstlayer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 50px;
+}
+
+.slide1 {
+  width: 300px;
+}
+
+.loadmore {
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 70px;
+  background-color: white;
+  height: 60px;
+  width: 219px;
+}
+
+.button2 {
+  display: flex;
+  justify-content: center;
+}
+.emailbar {
+  background-color: darkblue;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding: 100px;
+  color: white;
+  text-align: center;
+  margin: 60px;
+  font-size: xx-large;
+}
+
+.startnow {
+  padding: 15px 50px;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: 10px;
+  cursor: pointer;
+  border-radius: 70px;
+  background-color: green;
+  /* margin: 50; */
+}
+
+.input-fields {
+  /* padding-left: 350px; */
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+}
+.input {
+  border: none;
+  border-radius: 50%;
+}
+
+.footer {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.endB {
+  display: flex;
+  text-align: justify;
+}
+.list {
+  list-style: none;
+}
